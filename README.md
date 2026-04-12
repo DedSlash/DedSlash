@@ -14,7 +14,7 @@ Java Spring Boot Backend Developer | Microservices | Secure APIs | Angular
 |---------|-------------|-------|
 | [Buy-02](https://github.com/DedSlash/buy-02) | E-commerce microservices platform | Spring Boot · Kafka · MongoDB · Angular |
 | [Neo4flix](https://github.com/DedSlash/neo4flix) | Graph-based movie recommendation engine | Neo4j · Spring Boot · Angular 20 |
-| [Travel-Plan](https://github.com/DedSlash/travel-plan) | Travel management system | Spring Boot · Elasticsearch · Stripe · Ansible |
+| [Lets Travel](https://github.com/DedSlash/lets-travel) | Travel management system | Spring Boot · Elasticsearch · Stripe · Ansible |
 
 ## 📫 Contact
 - LinkedIn: [linkedin.com/in/rey-dedy-pangou](https://linkedin.com/in/rey-dedy-pangou)
