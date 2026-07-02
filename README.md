@@ -18,5 +18,7 @@ Java Spring Boot Backend Developer | Microservices | Secure APIs | Angular
 
 ## 📫 Contact
 - LinkedIn: [linkedin.com/in/rey-dedy-pangou](https://linkedin.com/in/rey-dedy-pangou)
+- Portfolio: [portfolio-reydedy.netlify.app/](https://portfolio-reydedy.netlify.app/)
+- Catalogue: [catalogue-rea.netlify.app/](https://catalogue-rea.netlify.app/)
 - Email: dedypangou@gmail.com
 - 🌍 Open to remote opportunities
